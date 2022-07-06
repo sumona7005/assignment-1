@@ -1,0 +1,93 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+}
+
+
+p {
+    font-size: 16px;
+    margin: 0;
+}
+
+/*for any white text*/
+.white-text {
+    color: white;
+}
+
+button {
+    padding: 10px 20px 10px 20px;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    background-color: orangered;
+
+}
+
+/*to add gap between sections*/
+.section-bottom-gap {
+    margin-bottom: 50px;
+}
+
+/*to get some narrow content area*/
+.narrow-content {
+    margin: 0 15% 0 15%;
+    text-align: center;
+}
+
+/*to inline some boxes*/
+.display-box {
+    display: flex;
+}
+
+/*to align some content center*/
+.justify-center {
+    justify-content: center;
+}
+
+/*to align some content full width*/
+.justify-space-between {
+    justify-content: space-between;
+}
+
+/*for banner background image*/
+nav {
+    background-image: url(images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*for section-3 to color food box*/
+.food-box {
+    background-color: ;
+    background-color: aliceblue;
+}
+
+/*for section-3 to color shelter box*/
+.shelter-box {
+    background-color: lavenderblush;
+}
+
+/*for section-3 to color education box*/
+.education-box {
+    background-color: cornsilk;
+}
+
+/*to show full height of banner image*/
+#banner-text-area {
+    height: 400px;
+}
+
+footer {
+    background-color: black;
+}
