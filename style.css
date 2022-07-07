@@ -118,6 +118,17 @@ nav {
     margin: 10px;
 }
 
+/*for section-2 (donate today) amount input*/
+#wider-input {
+    text-align: center;
+    padding: 0 155px 0 155px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+
 /*for section-3 (donate plan) to color food box*/
 .food-box {
     background-color: aliceblue;
@@ -151,7 +162,7 @@ nav {
 
 /*for section-5 (get update) box*/
 #get-update-box {
-    background-color: blueviolet;
+    background-color: gray;
     padding: 50px 5px 50px 5px;
     border-radius: 15px;
     margin: 60px 15% 90px 15%;
